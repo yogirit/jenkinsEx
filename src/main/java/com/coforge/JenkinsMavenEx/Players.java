@@ -1,5 +1,5 @@
 package com.coforge.JenkinsMavenEx;
-
+ 
 public class Players {
 	private int jerseyNo; 
 	private String playerName;
